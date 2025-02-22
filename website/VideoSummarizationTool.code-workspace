@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../FlaskTemplate"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VideoSummarizationTool"
+	}
+}

@@ -1,0 +1,53 @@
+html, body{
+    background-color: #202e42
+}
+
+h1 {
+    text-align: center;
+    color: #c0d4f0;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+#file {
+    padding-left: 20px;
+    padding-top: 10px;
+    
+    
+}
+
+#videoLink {
+    background-color: #293a52;
+    width: 800px;
+    color: white;
+    text-align: center;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sumbtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.output-box {
+    width: 800px;
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color:#293a52;
+    min-height: 500px;
+        
+}
+#out {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
